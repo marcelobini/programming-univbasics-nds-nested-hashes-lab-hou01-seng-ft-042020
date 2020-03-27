@@ -17,7 +17,7 @@ def literal_aoh
   # held in the constants
   literal_aoh[
     {name:  "Don Gately", occupation: "Live-in Staff"}
-    
+
   ]
 end
 
